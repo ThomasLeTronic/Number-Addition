@@ -10,3 +10,5 @@ number
 i do not recommend doing negative numbers with this
 as the fact that -1 cuts off the loop ruins the
 ability to use negative numbers.
+
+removed cookie.ico - not necessary for operation
